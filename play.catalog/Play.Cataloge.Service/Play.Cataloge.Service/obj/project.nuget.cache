@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjhDOsIcJCFrJ+g6QJLN7mAWV5Td0cgt6y32z77Y88ALSx3dwIn2MD1rW8chbkcf736K1HeG3KqQgU1HIqezpg==",
+  "success": true,
+  "projectFilePath": "E:\\4XE\\play.catalog\\Play.Cataloge.Service\\Play.Cataloge.Service\\Play.Cataloge.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moran\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\moran\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\moran\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\moran\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\moran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\moran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
