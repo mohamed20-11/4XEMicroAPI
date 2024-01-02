@@ -31,3 +31,4 @@ E:\4XE\play.catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalo
 E:\4XE\play.catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 E:\4XE\play.catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
 E:\4XE\play.catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+E:\4XE\play.catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.sourcelink.json
