@@ -36,5 +36,11 @@ namespace Play.Catalog.Service.Controllers
             var item = items.Where(item => item.id == id).SingleOrDefault();
             return item;
         }
+
+        [HttpPost]
+        public ActionResult<ItemDto> Post(CreateItemDto dtoModel)
+        {
+            var item = new ItemDto(Guid.NewGuid(), dtoModel.Name , dtoModel.Description, dtoModel.Price, dtoModel.CreatdDAte );
+        }
     }
 }
